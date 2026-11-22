@@ -1,0 +1,4 @@
+let order = "Milk Tea";
+
+console.log("Your Order: " + order);
+console.log("Thank you for ordering!");
