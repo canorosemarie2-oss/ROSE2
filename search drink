@@ -1,0 +1,3 @@
+let drinks = ["Coke", "Pepsi", "Sprite"];
+
+console.log(drinks.includes("Pepsi"));
