@@ -1,0 +1,3 @@
+let drinks = ["Coke", "Juice", "Water", "Milk"];
+
+console.log("Total Drinks: " + drinks.length);
