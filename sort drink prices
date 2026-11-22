@@ -1,0 +1,5 @@
+let prices = [50, 25, 40, 35, 20];
+
+prices.sort((a, b) => a - b);
+
+console.log(prices);
