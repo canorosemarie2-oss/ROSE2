@@ -1,0 +1,11 @@
+let beverage = {
+    name: "Milk Tea",
+    size: "Large",
+    price: 85,
+    flavor: "Chocolate"
+};
+
+console.log("Name: " + beverage.name);
+console.log("Size: " + beverage.size);
+console.log("Price: ₱" + beverage.price);
+console.log("Flavor: " + beverage.flavor);
