@@ -1,0 +1,5 @@
+let prices = [25, 50, 80, 30, 100];
+
+let affordable = prices.filter(price => price <= 50);
+
+console.log(affordable);
