@@ -1,0 +1,4 @@
+let drinks = ["Coke", "Sprite", "Royal"];
+drinks.pop();
+
+console.log(drinks);
