@@ -1,0 +1,3 @@
+let prices = [25, 40, 60, 35];
+
+console.log("Highest Price: ₱" + Math.max(...prices));
