@@ -1,0 +1,6 @@
+let drink = {
+    name: "Coca-Cola",
+    price: 25,
+    quantity: 10
+};
+console.log(drink);
