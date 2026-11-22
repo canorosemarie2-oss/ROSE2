@@ -1,0 +1,4 @@
+let drinkPrice = 30;
+drinkPrice = 35;
+
+console.log("New Price: ₱" + drinkPrice);
