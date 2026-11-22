@@ -1,0 +1,6 @@
+let price = 100;
+let discount = 10;
+
+let finalPrice = price - (price * discount / 100);
+
+console.log("Discounted Price: ₱" + finalPrice);
