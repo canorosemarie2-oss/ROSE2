@@ -1,0 +1,7 @@
+let stock = 5;
+
+if (stock <= 5) {
+    console.log("Low Stock Warning!");
+} else {
+    console.log("Stock is Sufficient");
+}
