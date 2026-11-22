@@ -1,0 +1,2 @@
+let price = 35;
+console.log("Price: ₱" + price);
