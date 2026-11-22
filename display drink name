@@ -1,0 +1,2 @@
+let drinkName = "Orange Juice";
+console.log("Drink: " + drinkName);
