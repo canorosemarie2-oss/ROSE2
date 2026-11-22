@@ -1,0 +1,7 @@
+let price = 80;
+
+if (price >= 50) {
+    console.log("Expensive Drink");
+} else {
+    console.log("Affordable Drink");
+}
