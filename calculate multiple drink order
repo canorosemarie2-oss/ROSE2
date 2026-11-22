@@ -1,0 +1,5 @@
+let orders = [25, 35, 40, 50];
+
+let total = orders.reduce((sum, price) => sum + price, 0);
+
+console.log("Total Payment: ₱" + total);
