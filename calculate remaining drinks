@@ -1,0 +1,6 @@
+let stock = 50;
+let sold = 15;
+
+let remaining = stock - sold;
+
+console.log("Remaining Stock: " + remaining);
