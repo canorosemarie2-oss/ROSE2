@@ -1,0 +1,6 @@
+let stock = 20;
+let additionalStock = 10;
+
+stock += additionalStock;
+
+console.log("Updated Stock: " + stock);
