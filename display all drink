@@ -1,0 +1,5 @@
+let drinks = ["Water", "Juice", "Milk", "Coffee"];
+
+drinks.forEach(drink => {
+    console.log(drink);
+});
