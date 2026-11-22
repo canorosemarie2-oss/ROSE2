@@ -1,0 +1,9 @@
+let categories = [
+    "Juice",
+    "Soft Drinks",
+    "Coffee",
+    "Milk Tea",
+    "Water"
+];
+
+console.log(categories);
